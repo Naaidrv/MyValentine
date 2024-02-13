@@ -8,6 +8,8 @@ body {
     margin: 0;
     background: rgb(87,0,161);
     background: linear-gradient(135deg, rgba(87,0,161,1) 6%, rgba(167,0,173,1) 37%, rgba(255,0,230,1) 100%);
+    background-attachment: fixed, scroll;
+    background-repeat: no-repeat, repeat-y;
     
 }
 
